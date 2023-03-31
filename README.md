@@ -1,14 +1,4 @@
-OiMeu nome é José Victor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-===================================================================================================================================
 
-Engenharia
-----------
-
-paixão por desafios
-
-*   🌍 Estou baseado em Belém
-*   🧠 Estou aprendendo uma nova estrutura ( uma nova estrutura )
-*   🤝 Estou aberto a colaborar em projetos interessantes ( projetos inteiros )
 *   ⚡  Sou secretamente batman, mas não conte a ninguém
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
